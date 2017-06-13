@@ -1,0 +1,15 @@
+C:\Users\MertcanY\Desktop\projeAsalSayiKontrolü\projeAsalSayiKontrolü\bin\Debug\projeAsalSayiKontrolü.exe.config
+C:\Users\MertcanY\Desktop\projeAsalSayiKontrolü\projeAsalSayiKontrolü\bin\Debug\projeAsalSayiKontrolü.exe
+C:\Users\MertcanY\Desktop\projeAsalSayiKontrolü\projeAsalSayiKontrolü\bin\Debug\projeAsalSayiKontrolü.pdb
+C:\Users\MertcanY\Desktop\projeAsalSayiKontrolü\projeAsalSayiKontrolü\obj\Debug\projeAsalSayiKontrolü.csprojResolveAssemblyReference.cache
+C:\Users\MertcanY\Desktop\projeAsalSayiKontrolü\projeAsalSayiKontrolü\obj\Debug\projeAsalSayiKontrolü.Form1.resources
+C:\Users\MertcanY\Desktop\projeAsalSayiKontrolü\projeAsalSayiKontrolü\obj\Debug\projeAsalSayiKontrolü.Properties.Resources.resources
+C:\Users\MertcanY\Desktop\projeAsalSayiKontrolü\projeAsalSayiKontrolü\obj\Debug\projeAsalSayiKontrolü.csproj.GenerateResource.Cache
+C:\Users\MertcanY\Desktop\projeAsalSayiKontrolü\projeAsalSayiKontrolü\obj\Debug\projeAsalSayiKontrolü.exe
+C:\Users\MertcanY\Desktop\projeAsalSayiKontrolü\projeAsalSayiKontrolü\obj\Debug\projeAsalSayiKontrolü.pdb
+C:\Users\MertcanY\Desktop\belgemsiler\projeAsalSayiKontrolü\projeAsalSayiKontrolü\bin\Debug\projeAsalSayiKontrolü.exe.config
+C:\Users\MertcanY\Desktop\belgemsiler\projeAsalSayiKontrolü\projeAsalSayiKontrolü\obj\Debug\projeAsalSayiKontrolü.exe
+C:\Users\MertcanY\Desktop\belgemsiler\projeAsalSayiKontrolü\projeAsalSayiKontrolü\obj\Debug\projeAsalSayiKontrolü.pdb
+C:\yedeklenenler\yedekle\belgemsiler\projeAsalSayiKontrolü\projeAsalSayiKontrolü\bin\Debug\projeAsalSayiKontrolü.exe.config
+C:\yedeklenenler\yedekle\belgemsiler\projeAsalSayiKontrolü\projeAsalSayiKontrolü\obj\Debug\projeAsalSayiKontrolü.exe
+C:\yedeklenenler\yedekle\belgemsiler\projeAsalSayiKontrolü\projeAsalSayiKontrolü\obj\Debug\projeAsalSayiKontrolü.pdb
